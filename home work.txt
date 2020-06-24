@@ -1,0 +1,17 @@
+ 1) Write a program to print prime numbers upto 100?
+ prime number
+a number that is divisible only by itself and 1 (e.g. 2, 3, 5, 7, 11).
+
+2) Write a program to provide the grading to marks?
+ subject: maths, english, science, social, hindi, telugu (Total 6 subjects)
+
+Marks for each subject max : 100
+
+ Each subject should have min 35 for pass
+and total marks (%) : 60% ; GRADE B
+total marks (%) : 61% - 70% ; GRADE A
+total marks (%) : <50% ; GRADE C
+total marks (%) : 71% - 80% ; GRADE A+
+total marks (%) : 81% - 90% ; GRADE A++
+total marks (%) : >=91%; GRADE A*
+ depends on the marks you give, output should display : Total marks, percentage and the Grade:
