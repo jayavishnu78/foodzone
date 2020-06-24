@@ -1,5 +1,5 @@
 # foodzone
 All Tasty Foods only
-Menu will be added sooon
+Menu deleted some text
 Bread
 Panipuri
